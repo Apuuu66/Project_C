@@ -142,6 +142,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindMaxAndCmax.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="qiqi.c" />
+    <ClCompile Include="SeqStack.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FindMaxAndCmax.h" />
+    <ClInclude Include="qiqi.h" />
+    <ClInclude Include="SeqStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
